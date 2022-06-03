@@ -13,7 +13,7 @@ public class AbstractionMainApplication {
 		d.sound();
 		d.eating();
 		System.out.println(d.animalAge(age));
-		System.out.println("gittest");
+		System.out.println("gittkjhuyhniug76th98uh76g7yj87gt6ghy7tgest2");
 
 	}
 
